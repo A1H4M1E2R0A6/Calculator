@@ -1,0 +1,62 @@
+
+ .h1{
+    background-color: aqua;
+    padding: 1em;
+    text-align: center;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline solid black ;
+    border: 3px solid black;
+ }
+ div{
+    background-color: black;
+ } 
+
+ #clear {
+     width: 6em;
+     border: 3px solid rgb(255, 255, 255);
+     border-radius: 20px;
+     padding: 20px;
+     background-color: red;
+ }
+
+ .formstyle {
+
+     background-color: black;
+     width: 300px;
+     height: 32em;
+     margin: auto;
+     border: 3px solid rgb(162, 0, 255);
+     border-radius: 5px;
+     padding: 20px;
+ }
+
+ .Score {
+     background-color: dimgrey;
+ }
+
+ input {
+     width: 20px;
+     background-color: rgb(30, 187, 30);
+     color: rgb(255, 255, 255);
+     border: 3px solid rgb(255, 255, 255);
+     border-radius: 20px;
+     padding: 26px;
+     margin: 4.5px;
+     margin-left: 8px;
+     font-size: 1.4em;
+ }
+
+
+
+
+ #calc {
+     background-color: black;
+     width: 250px;
+     border: 3px solid rgb(255, 255, 255);
+     border-radius: 10px;
+     padding: 20px;
+     margin: auto;
+ }
+
+ 
